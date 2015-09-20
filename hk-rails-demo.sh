@@ -9,4 +9,4 @@ heroku run rake db:migrate
 
 sleep 600
 
-heroku apps:destroy -a hk-rails-demo --confirm hk-rails-demo
+# heroku apps:destroy -a hk-rails-demo --confirm hk-rails-demo
